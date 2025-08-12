@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\.net\\FormSubmission\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D274A565-F9A6-48AF-AD1B-B1899E31857E}|FormSubmission\\FormSubmission.csproj|e:\\.net\\formsubmission\\formsubmission\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D274A565-F9A6-48AF-AD1B-B1899E31857E}|FormSubmission\\FormSubmission.csproj|solutionrelative:formsubmission\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D274A565-F9A6-48AF-AD1B-B1899E31857E}|FormSubmission\\FormSubmission.csproj|E:\\.net\\FormSubmission\\formsubmission\\models\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D274A565-F9A6-48AF-AD1B-B1899E31857E}|FormSubmission\\FormSubmission.csproj|solutionrelative:formsubmission\\models\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D274A565-F9A6-48AF-AD1B-B1899E31857E}|FormSubmission\\FormSubmission.csproj|E:\\.net\\FormSubmission\\formsubmission\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D274A565-F9A6-48AF-AD1B-B1899E31857E}|FormSubmission\\FormSubmission.csproj|solutionrelative:formsubmission\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D274A565-F9A6-48AF-AD1B-B1899E31857E}|FormSubmission\\FormSubmission.csproj|E:\\.net\\FormSubmission\\formsubmission\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D274A565-F9A6-48AF-AD1B-B1899E31857E}|FormSubmission\\FormSubmission.csproj|solutionrelative:formsubmission\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D274A565-F9A6-48AF-AD1B-B1899E31857E}|FormSubmission\\FormSubmission.csproj|E:\\.net\\FormSubmission\\formsubmission\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D274A565-F9A6-48AF-AD1B-B1899E31857E}|FormSubmission\\FormSubmission.csproj|solutionrelative:formsubmission\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form.cs",
+              "DocumentMoniker": "E:\\.net\\FormSubmission\\FormSubmission\\Models\\Form.cs",
+              "RelativeDocumentMoniker": "FormSubmission\\Models\\Form.cs",
+              "ToolTip": "E:\\.net\\FormSubmission\\FormSubmission\\Models\\Form.cs",
+              "RelativeToolTip": "FormSubmission\\Models\\Form.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAmwDsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T20:27:35.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\.net\\FormSubmission\\FormSubmission\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "FormSubmission\\Views\\Student\\Create.cshtml",
+              "ToolTip": "E:\\.net\\FormSubmission\\FormSubmission\\Views\\Student\\Create.cshtml*",
+              "RelativeToolTip": "FormSubmission\\Views\\Student\\Create.cshtml*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-10T20:20:04.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "E:\\.net\\FormSubmission\\FormSubmission\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "FormSubmission\\Controllers\\StudentController.cs",
+              "ToolTip": "E:\\.net\\FormSubmission\\FormSubmission\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "FormSubmission\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T20:16:26.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "E:\\.net\\FormSubmission\\FormSubmission\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "FormSubmission\\App_Start\\RouteConfig.cs",
+              "ToolTip": "E:\\.net\\FormSubmission\\FormSubmission\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "FormSubmission\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-10T20:34:24.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\.net\\FormSubmission\\FormSubmission\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "FormSubmission\\Views\\Student\\Index.cshtml",
+              "ToolTip": "E:\\.net\\FormSubmission\\FormSubmission\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "FormSubmission\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-10T20:17:44.039Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
