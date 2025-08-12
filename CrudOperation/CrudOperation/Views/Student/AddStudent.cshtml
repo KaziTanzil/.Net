@@ -1,0 +1,57 @@
+﻿
+@model CrudOperation.EF.student
+@{
+    ViewBag.Title = "AddStudent";
+}
+
+<h2>Registration</h2>
+<style>
+    .text-danger {
+        color: red;
+    }
+</style>
+
+@using (Html.BeginForm("Addstudent", "Student", FormMethod.Post))
+{
+    <div class="container">
+        <div class="form-group">
+            <label>Name</label>
+            @Html.ValidationMessageFor(model => model.Name, "", new { @class = "text-danger" })
+            @Html.TextBoxFor(model => model.Name, new { @class = "form-control" })
+
+        </div>
+        <div class="form-group">
+            <label>Father's 'Name</label>
+            @Html.ValidationMessageFor(model => model.Fname, "", new { @class = "text-danger" })
+            @Html.TextBoxFor(model => model.Fname, new { @class = "form-control" })
+
+
+        </div>
+        <div class="form-group">
+            <label>Email</label>
+            @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+            @Html.TextBoxFor(model => model.Email, new { @class = "form-control" })
+
+        </div>
+        <div class="form-group">
+            <label>Mobile no: </label>
+            @Html.ValidationMessageFor(model => model.Mobile, "", new { @class = "text-danger" })
+            @Html.TextBoxFor(model => model.Mobile, new { @class = "form-control" })
+
+        </div>
+        <div class="form-group">
+            <label>Description</label>
+            @Html.TextBoxFor(model => model.Description, new { @class = "form-control", @rows = "100" })
+            @Html.ValidationMessageFor(model => model.Description, "", new { @class = "text-danger" })
+        </div>
+
+        <div class="form-group">
+            <button type="submit" class="btn btn-primary">Submit</button>
+            <button type="reset" class="btn btn-primary">Reset</button>
+
+        </div>
+
+    </div>
+
+}
+

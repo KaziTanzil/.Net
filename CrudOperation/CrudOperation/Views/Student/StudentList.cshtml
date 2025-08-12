@@ -1,0 +1,43 @@
+﻿@model List<CrudOperation.EF.student>
+@{
+    ViewBag.Title = "StudentList";
+}
+
+<!-- Add this to your layout head -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" rel="stylesheet" />
+
+
+<h2>StudentList</h2>
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Father's Name</th>
+            <th>Email</th>
+            <th>Mobile</th>
+            <th>Description</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var st in Model)
+        {
+            <tr>
+                <td>@st.ID</td>
+                <td>@st.Name</td>
+                <td>@st.Fname</td>
+                <td>@st.Email</td>
+                <td>@st.Mobile</td>
+                <td>@st.Description</td>
+                <td>
+                    <a href="@Url.Action("EditStudent","Student",new {id=st.ID})"><i class="fa fa-edit"></i></a>   <!-- pencil/edit icon -->
+                    <a href="@Url.Action("DeleteStudent", "Student", new { id = st.ID })"><i class="fa fa-trash"></i></a>
+
+
+
+                </td>
+            </tr>
+        }
+    </tbody>
+

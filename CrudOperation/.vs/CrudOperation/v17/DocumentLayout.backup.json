@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\.net\\CrudOperation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{348EE707-962B-452B-B492-820885DCDFE2}|CrudOperation\\CrudOperation.csproj|e:\\.net\\crudoperation\\crudoperation\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{348EE707-962B-452B-B492-820885DCDFE2}|CrudOperation\\CrudOperation.csproj|solutionrelative:crudoperation\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348EE707-962B-452B-B492-820885DCDFE2}|CrudOperation\\CrudOperation.csproj|E:\\.net\\CrudOperation\\crudoperation\\views\\student\\deletestudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{348EE707-962B-452B-B492-820885DCDFE2}|CrudOperation\\CrudOperation.csproj|solutionrelative:crudoperation\\views\\student\\deletestudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348EE707-962B-452B-B492-820885DCDFE2}|CrudOperation\\CrudOperation.csproj|E:\\.net\\CrudOperation\\crudoperation\\views\\student\\studentlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{348EE707-962B-452B-B492-820885DCDFE2}|CrudOperation\\CrudOperation.csproj|solutionrelative:crudoperation\\views\\student\\studentlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{348EE707-962B-452B-B492-820885DCDFE2}|CrudOperation\\CrudOperation.csproj|E:\\.net\\CrudOperation\\crudoperation\\ef\\dbmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{348EE707-962B-452B-B492-820885DCDFE2}|CrudOperation\\CrudOperation.csproj|solutionrelative:crudoperation\\ef\\dbmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "E:\\.net\\CrudOperation\\CrudOperation\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "CrudOperation\\Controllers\\StudentController.cs",
+              "ToolTip": "E:\\.net\\CrudOperation\\CrudOperation\\Controllers\\StudentController.cs*",
+              "RelativeToolTip": "CrudOperation\\Controllers\\StudentController.cs*",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwDUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T11:34:43.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentList.cshtml",
+              "DocumentMoniker": "E:\\.net\\CrudOperation\\CrudOperation\\Views\\Student\\StudentList.cshtml",
+              "RelativeDocumentMoniker": "CrudOperation\\Views\\Student\\StudentList.cshtml",
+              "ToolTip": "E:\\.net\\CrudOperation\\CrudOperation\\Views\\Student\\StudentList.cshtml",
+              "RelativeToolTip": "CrudOperation\\Views\\Student\\StudentList.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T11:27:48.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeleteStudent.cshtml",
+              "DocumentMoniker": "E:\\.net\\CrudOperation\\CrudOperation\\Views\\Student\\DeleteStudent.cshtml",
+              "RelativeDocumentMoniker": "CrudOperation\\Views\\Student\\DeleteStudent.cshtml",
+              "ToolTip": "E:\\.net\\CrudOperation\\CrudOperation\\Views\\Student\\DeleteStudent.cshtml",
+              "RelativeToolTip": "CrudOperation\\Views\\Student\\DeleteStudent.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T11:15:49.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbModel.edmx [Diagram1]",
+              "DocumentMoniker": "E:\\.net\\CrudOperation\\CrudOperation\\EF\\DbModel.edmx",
+              "RelativeDocumentMoniker": "CrudOperation\\EF\\DbModel.edmx",
+              "ToolTip": "E:\\.net\\CrudOperation\\CrudOperation\\EF\\DbModel.edmx [Diagram1]",
+              "RelativeToolTip": "CrudOperation\\EF\\DbModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-08-11T08:31:40.388Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
