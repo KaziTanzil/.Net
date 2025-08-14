@@ -1,0 +1,68 @@
+﻿
+
+@{
+    ViewBag.Title = "Cart";
+}
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+
+<h2>Cart</h2>
+
+@if (Model == null )
+{
+    <p class="alert alert-info">Your cart is empty.</p>
+}
+else
+{
+   
+        decimal totalAmount = 0;
+        foreach (var item in Model)
+        {
+            totalAmount += item.Price * item.Stock;
+        }
+
+<table class="table table-bordered">
+    <tr>
+        <th>Name</th>
+        <th>Price Per Unit</th>
+        <th>Quantity</th>
+        <th>Amount</th>
+
+    </tr>
+
+
+
+    @foreach (var item in Model)
+    {
+        {
+
+        }
+        <tr>
+            <td>@item.Name</td>
+            <td>@item.Price</td>
+            <td>
+                <a href="/Product/Decrease/@item.ProductId"><i class="fas fa-minus"></i></a>
+                @item.Stock
+                <a href="/Product/Increase/@item.ProductId"><i class="fas fa-plus"></i></a>
+
+
+            </td>
+            <td>@(item.Price * item.Stock)</td>
+
+        </tr>
+    }
+
+    <tr>
+        <td colspan="4" style="text-align: center;"><bold>Grand Total</bold> @totalAmount</td>
+    </tr>
+</table>
+
+<a href="/Product/Index">Go back to product page</a>
+      
+
+       
+
+     
+
+    
+}

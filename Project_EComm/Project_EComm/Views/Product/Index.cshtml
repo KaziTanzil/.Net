@@ -1,0 +1,33 @@
+﻿ 
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<h2>Index</h2>
+@if (TempData["Msg"] != null) { 
+    <p class="alert alert-info" >@TempData["Msg"]</p>
+}
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="col-sm-2">
+            <div class="card text-center">
+                <div class="card-body">
+                    <h5 class="card-title">@item.Name</h5>
+                    <p class="card-text">BDT @item.Price</p>
+                    <p class="card-text"> @item.Description</p>
+                    <p class="card-text"> @item.Stock</p>
+                    
+                    
+                   
+
+                    <a href="/Product/AddToCart/@item.ProductId" class="btn btn-primary">Add to Cart</a>
+                </div>
+            </div>
+        </div>
+    }
+
+
+</div>
