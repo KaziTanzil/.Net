@@ -31,7 +31,7 @@
                 <td>@st.Mobile</td>
                 <td>@st.Description</td>
                 <td>
-                    <a href="@Url.Action("EditStudent","Student",new {id=st.ID})"><i class="fa fa-edit"></i></a>   <!-- pencil/edit icon -->
+                    <a href="/Student/EditStudent/@st.ID"><i class="fa fa-edit"></i></a>   <!-- pencil/edit icon -->
                     <a href="@Url.Action("DeleteStudent", "Student", new { id = st.ID })"><i class="fa fa-trash"></i></a>
 
 

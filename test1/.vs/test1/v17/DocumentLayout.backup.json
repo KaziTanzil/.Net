@@ -3,43 +3,39 @@
   "WorkspaceRootPath": "E:\\.net\\test1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EE1A95C9-6F65-4D08-9461-B558476F481F}|test1\\test1.csproj|e:\\.net\\test1\\test1\\controllers\\dbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE1A95C9-6F65-4D08-9461-B558476F481F}|test1\\test1.csproj|solutionrelative:test1\\controllers\\dbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE1A95C9-6F65-4D08-9461-B558476F481F}|test1\\test1.csproj|e:\\.net\\test1\\test1\\views\\db\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{EE1A95C9-6F65-4D08-9461-B558476F481F}|test1\\test1.csproj|E:\\.net\\test1\\test1\\views\\db\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EE1A95C9-6F65-4D08-9461-B558476F481F}|test1\\test1.csproj|solutionrelative:test1\\views\\db\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE1A95C9-6F65-4D08-9461-B558476F481F}|test1\\test1.csproj|e:\\.net\\test1\\test1\\views\\db\\tablelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{EE1A95C9-6F65-4D08-9461-B558476F481F}|test1\\test1.csproj|E:\\.net\\test1\\test1\\views\\db\\tablelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EE1A95C9-6F65-4D08-9461-B558476F481F}|test1\\test1.csproj|solutionrelative:test1\\views\\db\\tablelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE1A95C9-6F65-4D08-9461-B558476F481F}|test1\\test1.csproj|e:\\.net\\test1\\test1\\views\\name\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{EE1A95C9-6F65-4D08-9461-B558476F481F}|test1\\test1.csproj|E:\\.net\\test1\\test1\\views\\name\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{EE1A95C9-6F65-4D08-9461-B558476F481F}|test1\\test1.csproj|solutionrelative:test1\\views\\name\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE1A95C9-6F65-4D08-9461-B558476F481F}|test1\\test1.csproj|e:\\.net\\test1\\test1\\controllers\\namecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EE1A95C9-6F65-4D08-9461-B558476F481F}|test1\\test1.csproj|E:\\.net\\test1\\test1\\controllers\\namecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE1A95C9-6F65-4D08-9461-B558476F481F}|test1\\test1.csproj|solutionrelative:test1\\controllers\\namecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE1A95C9-6F65-4D08-9461-B558476F481F}|test1\\test1.csproj|e:\\.net\\test1\\test1\\ef\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EE1A95C9-6F65-4D08-9461-B558476F481F}|test1\\test1.csproj|E:\\.net\\test1\\test1\\ef\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE1A95C9-6F65-4D08-9461-B558476F481F}|test1\\test1.csproj|solutionrelative:test1\\ef\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE1A95C9-6F65-4D08-9461-B558476F481F}|test1\\test1.csproj|e:\\.net\\test1\\test1\\models\\from.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EE1A95C9-6F65-4D08-9461-B558476F481F}|test1\\test1.csproj|E:\\.net\\test1\\test1\\models\\from.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE1A95C9-6F65-4D08-9461-B558476F481F}|test1\\test1.csproj|solutionrelative:test1\\models\\from.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE1A95C9-6F65-4D08-9461-B558476F481F}|test1\\test1.csproj|e:\\.net\\test1\\test1\\ef\\tawtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EE1A95C9-6F65-4D08-9461-B558476F481F}|test1\\test1.csproj|E:\\.net\\test1\\test1\\ef\\tawtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE1A95C9-6F65-4D08-9461-B558476F481F}|test1\\test1.csproj|solutionrelative:test1\\ef\\tawtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE1A95C9-6F65-4D08-9461-B558476F481F}|test1\\test1.csproj|e:\\.net\\test1\\test1\\ef\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "AbsoluteMoniker": "D:0:0:{EE1A95C9-6F65-4D08-9461-B558476F481F}|test1\\test1.csproj|E:\\.net\\test1\\test1\\ef\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
       "RelativeMoniker": "D:0:0:{EE1A95C9-6F65-4D08-9461-B558476F481F}|test1\\test1.csproj|solutionrelative:test1\\ef\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE1A95C9-6F65-4D08-9461-B558476F481F}|test1\\test1.csproj|e:\\.net\\test1\\test1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EE1A95C9-6F65-4D08-9461-B558476F481F}|test1\\test1.csproj|E:\\.net\\test1\\test1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE1A95C9-6F65-4D08-9461-B558476F481F}|test1\\test1.csproj|solutionrelative:test1\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -50,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,7 +54,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Create.cshtml",
               "DocumentMoniker": "E:\\.net\\test1\\test1\\Views\\Name\\Create.cshtml",
               "RelativeDocumentMoniker": "test1\\Views\\Name\\Create.cshtml",
@@ -66,25 +62,23 @@
               "RelativeToolTip": "test1\\Views\\Name\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-14T18:44:48.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-14T18:44:48.133Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "TableList.cshtml",
               "DocumentMoniker": "E:\\.net\\test1\\test1\\Views\\Db\\TableList.cshtml",
               "RelativeDocumentMoniker": "test1\\Views\\Db\\TableList.cshtml",
-              "ToolTip": "E:\\.net\\test1\\test1\\Views\\Db\\TableList.cshtml*",
-              "RelativeToolTip": "test1\\Views\\Db\\TableList.cshtml*",
+              "ToolTip": "E:\\.net\\test1\\test1\\Views\\Db\\TableList.cshtml",
+              "RelativeToolTip": "test1\\Views\\Db\\TableList.cshtml",
               "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-14T18:34:19.446Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-14T18:34:19.446Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Model1.cs",
               "DocumentMoniker": "E:\\.net\\test1\\test1\\EF\\Model1.cs",
               "RelativeDocumentMoniker": "test1\\EF\\Model1.cs",
@@ -92,12 +86,11 @@
               "RelativeToolTip": "test1\\EF\\Model1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T18:28:41.629Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-14T18:28:41.629Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\.net\\test1\\test1\\Views\\Db\\Index.cshtml",
               "RelativeDocumentMoniker": "test1\\Views\\Db\\Index.cshtml",
@@ -110,32 +103,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DbController.cs",
-              "DocumentMoniker": "E:\\.net\\test1\\test1\\Controllers\\DbController.cs",
-              "RelativeDocumentMoniker": "test1\\Controllers\\DbController.cs",
-              "ToolTip": "E:\\.net\\test1\\test1\\Controllers\\DbController.cs",
-              "RelativeToolTip": "test1\\Controllers\\DbController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T18:15:10.161Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Model1.edmx [Diagram1]",
               "DocumentMoniker": "E:\\.net\\test1\\test1\\EF\\Model1.edmx",
               "RelativeDocumentMoniker": "test1\\EF\\Model1.edmx",
               "ToolTip": "E:\\.net\\test1\\test1\\EF\\Model1.edmx [Diagram1]",
               "RelativeToolTip": "test1\\EF\\Model1.edmx [Diagram1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2025-08-14T18:13:24.848Z",
-              "EditorCaption": " [Diagram1]"
+              "WhenOpened": "2025-08-14T18:13:24.848Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "From.cs",
               "DocumentMoniker": "E:\\.net\\test1\\test1\\Models\\From.cs",
               "RelativeDocumentMoniker": "test1\\Models\\From.cs",
@@ -143,12 +122,11 @@
               "RelativeToolTip": "test1\\Models\\From.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T17:44:48.991Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-14T17:44:48.991Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "RouteConfig.cs",
               "DocumentMoniker": "E:\\.net\\test1\\test1\\App_Start\\RouteConfig.cs",
               "RelativeDocumentMoniker": "test1\\App_Start\\RouteConfig.cs",
@@ -156,12 +134,11 @@
               "RelativeToolTip": "test1\\App_Start\\RouteConfig.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T17:39:48.606Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-14T17:39:48.606Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "NameController.cs",
               "DocumentMoniker": "E:\\.net\\test1\\test1\\Controllers\\NameController.cs",
               "RelativeDocumentMoniker": "test1\\Controllers\\NameController.cs",
@@ -169,12 +146,11 @@
               "RelativeToolTip": "test1\\Controllers\\NameController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T16:58:45.422Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-14T16:58:45.422Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Tawtable.cs",
               "DocumentMoniker": "E:\\.net\\test1\\test1\\EF\\Tawtable.cs",
               "RelativeDocumentMoniker": "test1\\EF\\Tawtable.cs",
@@ -182,8 +158,7 @@
               "RelativeToolTip": "test1\\EF\\Tawtable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T18:18:40.013Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-14T18:18:40.013Z"
             }
           ]
         }
