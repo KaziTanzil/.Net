@@ -1,0 +1,16 @@
+﻿@model Project_Thesis.EF.Section
+
+
+@{
+    ViewBag.Title = "CreateSection";
+}
+
+<h2>CreateSection</h2>
+
+<form method="post">
+    <input type="text" name="Topic" value="@Model.Topic" placeholder="Enter section topic" required />
+    <input type="text" name="SectionName" value="@Model.SectionName" placeholder="Enter section name" required />
+    <button type="submit" class="btn btn-primary">Submit</button>
+
+</form>
+

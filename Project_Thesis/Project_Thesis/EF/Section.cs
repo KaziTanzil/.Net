@@ -12,18 +12,14 @@ namespace Project_Thesis.EF
     using System;
     using System.Collections.Generic;
     
-    public partial class Supervisor
+    public partial class Section
     {
-        public Supervisor()
-        {
-            this.Sections = new HashSet<Section>();
-        }
-    
+        public int SectionId { get; set; }
+        public string Topic { get; set; }
+        public string Supervisor { get; set; }
         public int Id { get; set; }
-        public string Password { get; set; }
-        public string UserName { get; set; }
-        public string Gmail { get; set; }
+        public string SectionName { get; set; }
     
-        public virtual ICollection<Section> Sections { get; set; }
+        public virtual Supervisor Supervisor1 { get; set; }
     }
 }

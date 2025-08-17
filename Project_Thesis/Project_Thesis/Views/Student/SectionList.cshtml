@@ -1,0 +1,25 @@
+﻿
+@{
+    ViewBag.Title = "SectionList";
+}
+
+<h2>SectionList</h2>
+
+@foreach(var s in Model)
+{
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Section Name</th>
+                <th>Topic</th>
+                <th>supervisor</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>@s.SectionName</td>
+                <td>@s.Topic</td>
+                <td>@s.Supervisor</td>
+            </tr>
+</table>
+}

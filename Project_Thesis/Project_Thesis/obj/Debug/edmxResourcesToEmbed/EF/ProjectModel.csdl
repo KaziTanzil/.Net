@@ -19,9 +19,38 @@
     <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
     <Property Name="UserName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
     <Property Name="Gmail" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Sections" Relationship="ProjectThisisModel.FK_Sections_Supervisors" FromRole="Supervisor" ToRole="Section" />
   </EntityType>
   <EntityContainer Name="ProjectThisisEntities" annotation:LazyLoadingEnabled="true">
     <EntitySet Name="Students" EntityType="Self.Student" />
     <EntitySet Name="Supervisors" EntityType="Self.Supervisor" />
+    <EntitySet Name="Sections" EntityType="ProjectThisisModel.Section" />
+    <AssociationSet Name="FK_Sections_Supervisors" Association="ProjectThisisModel.FK_Sections_Supervisors">
+      <End Role="Supervisor" EntitySet="Supervisors" />
+      <End Role="Section" EntitySet="Sections" />
+    </AssociationSet>
   </EntityContainer>
+  <EntityType Name="Section">
+    <Key>
+      <PropertyRef Name="SectionId" />
+    </Key>
+    <Property Name="SectionId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Topic" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Supervisor" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Id" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Supervisor1" Relationship="ProjectThisisModel.FK_Sections_Supervisors" FromRole="Section" ToRole="Supervisor" />
+    <Property Name="SectionName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <Association Name="FK_Sections_Supervisors">
+    <End Type="ProjectThisisModel.Supervisor" Role="Supervisor" Multiplicity="1" />
+    <End Type="ProjectThisisModel.Section" Role="Section" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Supervisor">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Section">
+        <PropertyRef Name="Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
 </Schema>
