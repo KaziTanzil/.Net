@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "E:\\.net\\Project_Thesis\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B95B235-247D-49E2-A064-46F024160002}|Project_Thesis\\Project_Thesis.csproj|e:\\.net\\project_thesis\\project_thesis\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B95B235-247D-49E2-A064-46F024160002}|Project_Thesis\\Project_Thesis.csproj|solutionrelative:project_thesis\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C82A423-81C7-4CC3-B529-2838245A605C}|Project_Thesis\\Project_Thesis.csproj|e:\\.net\\project_thesis\\project_thesis\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C82A423-81C7-4CC3-B529-2838245A605C}|Project_Thesis\\Project_Thesis.csproj|solutionrelative:project_thesis\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B95B235-247D-49E2-A064-46F024160002}|Project_Thesis\\Project_Thesis.csproj|E:\\.net\\Project_Thesis\\project_thesis\\views\\student\\sectionlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7B95B235-247D-49E2-A064-46F024160002}|Project_Thesis\\Project_Thesis.csproj|solutionrelative:project_thesis\\views\\student\\sectionlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7C82A423-81C7-4CC3-B529-2838245A605C}|Project_Thesis\\Project_Thesis.csproj|e:\\.net\\project_thesis\\project_thesis\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C82A423-81C7-4CC3-B529-2838245A605C}|Project_Thesis\\Project_Thesis.csproj|solutionrelative:project_thesis\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B95B235-247D-49E2-A064-46F024160002}|Project_Thesis\\Project_Thesis.csproj|E:\\.net\\Project_Thesis\\project_thesis\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B95B235-247D-49E2-A064-46F024160002}|Project_Thesis\\Project_Thesis.csproj|solutionrelative:project_thesis\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C82A423-81C7-4CC3-B529-2838245A605C}|Project_Thesis\\Project_Thesis.csproj|e:\\.net\\project_thesis\\project_thesis\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C82A423-81C7-4CC3-B529-2838245A605C}|Project_Thesis\\Project_Thesis.csproj|solutionrelative:project_thesis\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B95B235-247D-49E2-A064-46F024160002}|Project_Thesis\\Project_Thesis.csproj|E:\\.net\\Project_Thesis\\project_thesis\\ef\\projectmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
-      "RelativeMoniker": "D:0:0:{7B95B235-247D-49E2-A064-46F024160002}|Project_Thesis\\Project_Thesis.csproj|solutionrelative:project_thesis\\ef\\projectmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+      "AbsoluteMoniker": "D:0:0:{7C82A423-81C7-4CC3-B529-2838245A605C}|Project_Thesis\\Project_Thesis.csproj|e:\\.net\\project_thesis\\project_thesis\\ef\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{7C82A423-81C7-4CC3-B529-2838245A605C}|Project_Thesis\\Project_Thesis.csproj|solutionrelative:project_thesis\\ef\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,63 +26,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "login.cshtml",
+              "DocumentMoniker": "E:\\.net\\Project_Thesis\\Project_Thesis\\Views\\Login\\login.cshtml",
+              "RelativeDocumentMoniker": "Project_Thesis\\Views\\Login\\login.cshtml",
+              "ToolTip": "E:\\.net\\Project_Thesis\\Project_Thesis\\Views\\Login\\login.cshtml",
+              "RelativeToolTip": "Project_Thesis\\Views\\Login\\login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-17T17:51:05.874Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "LoginController.cs",
               "DocumentMoniker": "E:\\.net\\Project_Thesis\\Project_Thesis\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "Project_Thesis\\Controllers\\LoginController.cs",
               "ToolTip": "E:\\.net\\Project_Thesis\\Project_Thesis\\Controllers\\LoginController.cs",
               "RelativeToolTip": "Project_Thesis\\Controllers\\LoginController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBIAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T21:11:52.208Z",
+              "WhenOpened": "2025-08-17T17:47:17.975Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "E:\\.net\\Project_Thesis\\Project_Thesis\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "Project_Thesis\\Controllers\\StudentController.cs",
-              "ToolTip": "E:\\.net\\Project_Thesis\\Project_Thesis\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "Project_Thesis\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "E:\\.net\\Project_Thesis\\Project_Thesis\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Project_Thesis\\App_Start\\RouteConfig.cs",
+              "ToolTip": "E:\\.net\\Project_Thesis\\Project_Thesis\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Project_Thesis\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T21:07:38.108Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SectionList.cshtml",
-              "DocumentMoniker": "E:\\.net\\Project_Thesis\\Project_Thesis\\Views\\Student\\SectionList.cshtml",
-              "RelativeDocumentMoniker": "Project_Thesis\\Views\\Student\\SectionList.cshtml",
-              "ToolTip": "E:\\.net\\Project_Thesis\\Project_Thesis\\Views\\Student\\SectionList.cshtml*",
-              "RelativeToolTip": "Project_Thesis\\Views\\Student\\SectionList.cshtml*",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
-              "WhenOpened": "2025-08-16T21:03:11.722Z"
+              "WhenOpened": "2025-08-17T17:45:15.91Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ProjectModel.edmx [Diagram1]",
-              "DocumentMoniker": "E:\\.net\\Project_Thesis\\Project_Thesis\\EF\\ProjectModel.edmx",
-              "RelativeDocumentMoniker": "Project_Thesis\\EF\\ProjectModel.edmx",
-              "ToolTip": "E:\\.net\\Project_Thesis\\Project_Thesis\\EF\\ProjectModel.edmx [Diagram1]",
-              "RelativeToolTip": "Project_Thesis\\EF\\ProjectModel.edmx [Diagram1]",
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "E:\\.net\\Project_Thesis\\Project_Thesis\\EF\\Model1.edmx",
+              "RelativeDocumentMoniker": "Project_Thesis\\EF\\Model1.edmx",
+              "ToolTip": "E:\\.net\\Project_Thesis\\Project_Thesis\\EF\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Project_Thesis\\EF\\Model1.edmx [Diagram1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2025-08-16T20:57:53.804Z"
+              "WhenOpened": "2025-08-17T17:39:34.929Z",
+              "EditorCaption": " [Diagram1]"
             }
           ]
         }
