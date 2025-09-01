@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\.net\\Registration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A67F6A52-7330-4F8E-A4E7-903E67811EF9}|Registration\\Registration.csproj|e:\\.net\\registration\\registration\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A67F6A52-7330-4F8E-A4E7-903E67811EF9}|Registration\\Registration.csproj|solutionrelative:registration\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A67F6A52-7330-4F8E-A4E7-903E67811EF9}|Registration\\Registration.csproj|E:\\.net\\Registration\\registration\\views\\sregistration\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A67F6A52-7330-4F8E-A4E7-903E67811EF9}|Registration\\Registration.csproj|solutionrelative:registration\\views\\sregistration\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A67F6A52-7330-4F8E-A4E7-903E67811EF9}|Registration\\Registration.csproj|E:\\.net\\Registration\\registration\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A67F6A52-7330-4F8E-A4E7-903E67811EF9}|Registration\\Registration.csproj|solutionrelative:registration\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A67F6A52-7330-4F8E-A4E7-903E67811EF9}|Registration\\Registration.csproj|e:\\.net\\registration\\registration\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A67F6A52-7330-4F8E-A4E7-903E67811EF9}|Registration\\Registration.csproj|solutionrelative:registration\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A67F6A52-7330-4F8E-A4E7-903E67811EF9}|Registration\\Registration.csproj|e:\\.net\\registration\\registration\\views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A67F6A52-7330-4F8E-A4E7-903E67811EF9}|Registration\\Registration.csproj|solutionrelative:registration\\views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A67F6A52-7330-4F8E-A4E7-903E67811EF9}|Registration\\Registration.csproj|e:\\.net\\registration\\registration\\controllers\\studentregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A67F6A52-7330-4F8E-A4E7-903E67811EF9}|Registration\\Registration.csproj|solutionrelative:registration\\controllers\\studentregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A67F6A52-7330-4F8E-A4E7-903E67811EF9}|Registration\\Registration.csproj|E:\\.net\\Registration\\registration\\ef\\model.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{A67F6A52-7330-4F8E-A4E7-903E67811EF9}|Registration\\Registration.csproj|solutionrelative:registration\\ef\\model.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A67F6A52-7330-4F8E-A4E7-903E67811EF9}|Registration\\Registration.csproj|E:\\.net\\Registration\\registration\\views\\sregistration\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A67F6A52-7330-4F8E-A4E7-903E67811EF9}|Registration\\Registration.csproj|solutionrelative:registration\\views\\sregistration\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A67F6A52-7330-4F8E-A4E7-903E67811EF9}|Registration\\Registration.csproj|E:\\.net\\Registration\\registration\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A67F6A52-7330-4F8E-A4E7-903E67811EF9}|Registration\\Registration.csproj|solutionrelative:registration\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\.net\\Registration\\Registration\\Views\\Admin\\Create.cshtml",
+              "RelativeDocumentMoniker": "Registration\\Views\\Admin\\Create.cshtml",
+              "ToolTip": "E:\\.net\\Registration\\Registration\\Views\\Admin\\Create.cshtml",
+              "RelativeToolTip": "Registration\\Views\\Admin\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-01T19:22:05.885Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "E:\\.net\\Registration\\Registration\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Registration\\Controllers\\AdminController.cs",
+              "ToolTip": "E:\\.net\\Registration\\Registration\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Registration\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA3wCIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T19:23:34.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\.net\\Registration\\Registration\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Registration\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "E:\\.net\\Registration\\Registration\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Registration\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-01T19:18:53.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Model.edmx [Diagram1]",
+              "DocumentMoniker": "E:\\.net\\Registration\\Registration\\EF\\Model.edmx",
+              "RelativeDocumentMoniker": "Registration\\EF\\Model.edmx",
+              "ToolTip": "E:\\.net\\Registration\\Registration\\EF\\Model.edmx [Diagram1]",
+              "RelativeToolTip": "Registration\\EF\\Model.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-09-01T18:36:23.545Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\.net\\Registration\\Registration\\Views\\SRegistration\\Index.cshtml",
+              "RelativeDocumentMoniker": "Registration\\Views\\SRegistration\\Index.cshtml",
+              "ToolTip": "E:\\.net\\Registration\\Registration\\Views\\SRegistration\\Index.cshtml",
+              "RelativeToolTip": "Registration\\Views\\SRegistration\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-01T18:05:25.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "E:\\.net\\Registration\\Registration\\Views\\SRegistration\\Register.cshtml",
+              "RelativeDocumentMoniker": "Registration\\Views\\SRegistration\\Register.cshtml",
+              "ToolTip": "E:\\.net\\Registration\\Registration\\Views\\SRegistration\\Register.cshtml",
+              "RelativeToolTip": "Registration\\Views\\SRegistration\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-01T18:16:02.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\.net\\Registration\\Registration\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "Registration\\Views\\Student\\Index.cshtml",
+              "ToolTip": "E:\\.net\\Registration\\Registration\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "Registration\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-01T18:14:47.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "E:\\.net\\Registration\\Registration\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Registration\\Controllers\\LoginController.cs",
+              "ToolTip": "E:\\.net\\Registration\\Registration\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Registration\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T18:12:34.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentRegistrationController.cs",
+              "DocumentMoniker": "E:\\.net\\Registration\\Registration\\Controllers\\StudentRegistrationController.cs",
+              "RelativeDocumentMoniker": "Registration\\Controllers\\StudentRegistrationController.cs",
+              "ToolTip": "E:\\.net\\Registration\\Registration\\Controllers\\StudentRegistrationController.cs",
+              "RelativeToolTip": "Registration\\Controllers\\StudentRegistrationController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwFoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T16:55:48.44Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="RegistrationModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Admin">
+    <Key>
+      <PropertyRef Name="AId" />
+    </Key>
+    <Property Name="AId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="AName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="AGmail" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="APassword" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="RegistrationEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Admins" EntityType="Self.Admin" />
+    <EntitySet Name="Cources" EntityType="RegistrationModel.Cource" />
+    <EntitySet Name="SRegistrations" EntityType="RegistrationModel.SRegistration" />
+    <EntitySet Name="Students" EntityType="RegistrationModel.Student" />
+    <AssociationSet Name="FK_SRegistration_Cources" Association="RegistrationModel.FK_SRegistration_Cources">
+      <End Role="Cource" EntitySet="Cources" />
+      <End Role="SRegistration" EntitySet="SRegistrations" />
+    </AssociationSet>
+    <AssociationSet Name="FK_SRegistration_Students" Association="RegistrationModel.FK_SRegistration_Students">
+      <End Role="Student" EntitySet="Students" />
+      <End Role="SRegistration" EntitySet="SRegistrations" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Cource">
+    <Key>
+      <PropertyRef Name="CId" />
+    </Key>
+    <Property Name="CId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CName" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Credit" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="TCapacity" Type="String" Nullable="false" />
+    <Property Name="Count" Type="String" Nullable="false" />
+    <NavigationProperty Name="SRegistrations" Relationship="RegistrationModel.FK_SRegistration_Cources" FromRole="Cource" ToRole="SRegistration" />
+  </EntityType>
+  <EntityType Name="SRegistration">
+    <Key>
+      <PropertyRef Name="RId" />
+    </Key>
+    <Property Name="RId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="SId" Type="Int32" />
+    <Property Name="CId" Type="Int32" />
+    <NavigationProperty Name="Cource" Relationship="RegistrationModel.FK_SRegistration_Cources" FromRole="SRegistration" ToRole="Cource" />
+    <NavigationProperty Name="Student" Relationship="RegistrationModel.FK_SRegistration_Students" FromRole="SRegistration" ToRole="Student" />
+  </EntityType>
+  <EntityType Name="Student">
+    <Key>
+      <PropertyRef Name="SId" />
+    </Key>
+    <Property Name="SId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="SName" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="SGmail" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="SPassword" Type="String" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="SRegistrations" Relationship="RegistrationModel.FK_SRegistration_Students" FromRole="Student" ToRole="SRegistration" />
+  </EntityType>
+  <Association Name="FK_SRegistration_Cources">
+    <End Type="RegistrationModel.Cource" Role="Cource" Multiplicity="0..1" />
+    <End Type="RegistrationModel.SRegistration" Role="SRegistration" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Cource">
+        <PropertyRef Name="CId" />
+      </Principal>
+      <Dependent Role="SRegistration">
+        <PropertyRef Name="CId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_SRegistration_Students">
+    <End Type="RegistrationModel.Student" Role="Student" Multiplicity="0..1" />
+    <End Type="RegistrationModel.SRegistration" Role="SRegistration" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Student">
+        <PropertyRef Name="SId" />
+      </Principal>
+      <Dependent Role="SRegistration">
+        <PropertyRef Name="SId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="RegistrationModelStoreContainer" CdmEntityContainer="RegistrationEntities">
+    <EntitySetMapping Name="Admins">
+      <EntityTypeMapping TypeName="RegistrationModel.Admin">
+        <MappingFragment StoreEntitySet="Admin">
+          <ScalarProperty Name="AId" ColumnName="AId" />
+          <ScalarProperty Name="AName" ColumnName="AName" />
+          <ScalarProperty Name="AGmail" ColumnName="AGmail" />
+          <ScalarProperty Name="APassword" ColumnName="APassword" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Cources">
+      <EntityTypeMapping TypeName="RegistrationModel.Cource">
+        <MappingFragment StoreEntitySet="Cources">
+          <ScalarProperty Name="Count" ColumnName="Count" />
+          <ScalarProperty Name="TCapacity" ColumnName="TCapacity" />
+          <ScalarProperty Name="Credit" ColumnName="Credit" />
+          <ScalarProperty Name="CName" ColumnName="CName" />
+          <ScalarProperty Name="CId" ColumnName="CId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SRegistrations">
+      <EntityTypeMapping TypeName="RegistrationModel.SRegistration">
+        <MappingFragment StoreEntitySet="SRegistration">
+          <ScalarProperty Name="CId" ColumnName="CId" />
+          <ScalarProperty Name="SId" ColumnName="SId" />
+          <ScalarProperty Name="RId" ColumnName="RId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Students">
+      <EntityTypeMapping TypeName="RegistrationModel.Student">
+        <MappingFragment StoreEntitySet="Students">
+          <ScalarProperty Name="SPassword" ColumnName="SPassword" />
+          <ScalarProperty Name="SGmail" ColumnName="SGmail" />
+          <ScalarProperty Name="SName" ColumnName="SName" />
+          <ScalarProperty Name="SId" ColumnName="SId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
