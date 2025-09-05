@@ -1,0 +1,30 @@
+﻿@{
+    ViewBag.Title = "ViewRegistrations";
+}
+
+<h2>View Registrations</h2>
+
+<table>
+    <tr>
+        <th>Student Id</th>
+        <th>Sports Id</th>
+        <th>Status</th>
+        <th>Action</th>
+    </tr>
+    @foreach (var s in Model)
+    {
+        <tr>
+            <td>@s.StudentId</td>
+            <td>@s.SId</td>
+            <td>@s.Status</td>
+            <td>
+                <form method="post" style="display:inline;">
+                    <input type="hidden" name="studentId" value="@s.StudentId" />
+                    <input type="hidden" name="sId" value="@s.SId" />
+                    <button type="submit" name="actionType" value="confirm">Confirm Registration</button>
+                    <button type="submit" name="actionType" value="cancel">Cancel Registration</button>
+                </form>
+            </td>
+        </tr>
+    }
+</table>

@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewBag.Title = "Create";
+}
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["Message"]
+    </div>
+}
+
+<h2>Create Section of sport</h2>
+<form method="post">
+
+    <label>Sport Name</label><input type="text" name="sports_name" value="" /><br />
+    
+
+    <button type="submit" class="btn btn-primary">Create Section</button>
+</form>
+
