@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="RegistrationModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Admin">
+    <Key>
+      <PropertyRef Name="AId" />
+    </Key>
+    <Property Name="AId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="AName" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="AGmail" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="APassword" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Cources">
+    <Key>
+      <PropertyRef Name="CId" />
+    </Key>
+    <Property Name="CId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CName" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Credit" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="TCapacity" Type="int" Nullable="false" />
+    <Property Name="Count" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="SRegistration">
+    <Key>
+      <PropertyRef Name="RId" />
+    </Key>
+    <Property Name="RId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="SId" Type="int" />
+    <Property Name="CId" Type="int" />
+  </EntityType>
+  <EntityType Name="Students">
+    <Key>
+      <PropertyRef Name="SId" />
+    </Key>
+    <Property Name="SId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="SName" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="SGmail" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="SPassword" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_SRegistration_Cources">
+    <End Role="Cources" Type="Self.Cources" Multiplicity="0..1" />
+    <End Role="SRegistration" Type="Self.SRegistration" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Cources">
+        <PropertyRef Name="CId" />
+      </Principal>
+      <Dependent Role="SRegistration">
+        <PropertyRef Name="CId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_SRegistration_Students">
+    <End Role="Students" Type="Self.Students" Multiplicity="0..1" />
+    <End Role="SRegistration" Type="Self.SRegistration" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Students">
+        <PropertyRef Name="SId" />
+      </Principal>
+      <Dependent Role="SRegistration">
+        <PropertyRef Name="SId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="RegistrationModelStoreContainer">
+    <EntitySet Name="Admin" EntityType="Self.Admin" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Cources" EntityType="Self.Cources" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="SRegistration" EntityType="Self.SRegistration" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Students" EntityType="Self.Students" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_SRegistration_Cources" Association="Self.FK_SRegistration_Cources">
+      <End Role="Cources" EntitySet="Cources" />
+      <End Role="SRegistration" EntitySet="SRegistration" />
+    </AssociationSet>
+    <AssociationSet Name="FK_SRegistration_Students" Association="Self.FK_SRegistration_Students">
+      <End Role="Students" EntitySet="Students" />
+      <End Role="SRegistration" EntitySet="SRegistration" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

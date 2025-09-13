@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\.net\\IntroWebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{806AEE0D-6EF8-4074-BF78-B8486B164A98}|IntroWebApi\\IntroWebApi.csproj|e:\\.net\\introwebapi\\introwebapi\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{806AEE0D-6EF8-4074-BF78-B8486B164A98}|IntroWebApi\\IntroWebApi.csproj|solutionrelative:introwebapi\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806AEE0D-6EF8-4074-BF78-B8486B164A98}|IntroWebApi\\IntroWebApi.csproj|e:\\.net\\introwebapi\\introwebapi\\models\\vm\\coursemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{806AEE0D-6EF8-4074-BF78-B8486B164A98}|IntroWebApi\\IntroWebApi.csproj|solutionrelative:introwebapi\\models\\vm\\coursemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806AEE0D-6EF8-4074-BF78-B8486B164A98}|IntroWebApi\\IntroWebApi.csproj|e:\\.net\\introwebapi\\introwebapi\\models\\ums.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{806AEE0D-6EF8-4074-BF78-B8486B164A98}|IntroWebApi\\IntroWebApi.csproj|solutionrelative:introwebapi\\models\\ums.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806AEE0D-6EF8-4074-BF78-B8486B164A98}|IntroWebApi\\IntroWebApi.csproj|e:\\.net\\introwebapi\\introwebapi\\controllers\\coursedbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{806AEE0D-6EF8-4074-BF78-B8486B164A98}|IntroWebApi\\IntroWebApi.csproj|solutionrelative:introwebapi\\controllers\\coursedbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806AEE0D-6EF8-4074-BF78-B8486B164A98}|IntroWebApi\\IntroWebApi.csproj|e:\\.net\\introwebapi\\introwebapi\\models\\vm\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{806AEE0D-6EF8-4074-BF78-B8486B164A98}|IntroWebApi\\IntroWebApi.csproj|solutionrelative:introwebapi\\models\\vm\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{806AEE0D-6EF8-4074-BF78-B8486B164A98}|IntroWebApi\\IntroWebApi.csproj|e:\\.net\\introwebapi\\introwebapi\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{806AEE0D-6EF8-4074-BF78-B8486B164A98}|IntroWebApi\\IntroWebApi.csproj|solutionrelative:introwebapi\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Message.cs",
+              "DocumentMoniker": "E:\\.net\\IntroWebApi\\IntroWebApi\\Models\\vM\\Message.cs",
+              "RelativeDocumentMoniker": "IntroWebApi\\Models\\vM\\Message.cs",
+              "ToolTip": "E:\\.net\\IntroWebApi\\IntroWebApi\\Models\\vM\\Message.cs",
+              "RelativeToolTip": "IntroWebApi\\Models\\vM\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T14:08:37.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UMS.Context.cs",
+              "DocumentMoniker": "E:\\.net\\IntroWebApi\\IntroWebApi\\Models\\UMS.Context.cs",
+              "RelativeDocumentMoniker": "IntroWebApi\\Models\\UMS.Context.cs",
+              "ToolTip": "E:\\.net\\IntroWebApi\\IntroWebApi\\Models\\UMS.Context.cs",
+              "RelativeToolTip": "IntroWebApi\\Models\\UMS.Context.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T11:56:01.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CourseDbController.cs",
+              "DocumentMoniker": "E:\\.net\\IntroWebApi\\IntroWebApi\\Controllers\\CourseDbController.cs",
+              "RelativeDocumentMoniker": "IntroWebApi\\Controllers\\CourseDbController.cs",
+              "ToolTip": "E:\\.net\\IntroWebApi\\IntroWebApi\\Controllers\\CourseDbController.cs",
+              "RelativeToolTip": "IntroWebApi\\Controllers\\CourseDbController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T14:02:21.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourseModel.cs",
+              "DocumentMoniker": "E:\\.net\\IntroWebApi\\IntroWebApi\\Models\\vM\\CourseModel.cs",
+              "RelativeDocumentMoniker": "IntroWebApi\\Models\\vM\\CourseModel.cs",
+              "ToolTip": "E:\\.net\\IntroWebApi\\IntroWebApi\\Models\\vM\\CourseModel.cs",
+              "RelativeToolTip": "IntroWebApi\\Models\\vM\\CourseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T11:56:20.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "E:\\.net\\IntroWebApi\\IntroWebApi\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "IntroWebApi\\Controllers\\CourseController.cs",
+              "ToolTip": "E:\\.net\\IntroWebApi\\IntroWebApi\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "IntroWebApi\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T11:43:30.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "E:\\.net\\IntroWebApi\\IntroWebApi\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "IntroWebApi\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "E:\\.net\\IntroWebApi\\IntroWebApi\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "IntroWebApi\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T11:27:21.258Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
