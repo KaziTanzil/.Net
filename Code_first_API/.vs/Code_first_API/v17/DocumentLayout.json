@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\.net\\Code_first_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23A65187-21C9-458F-98B9-080D11FF6C34}|Code_first_API\\Code_first_API.csproj|e:\\.net\\code_first_api\\code_first_api\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A65187-21C9-458F-98B9-080D11FF6C34}|Code_first_API\\Code_first_API.csproj|solutionrelative:code_first_api\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A65187-21C9-458F-98B9-080D11FF6C34}|Code_first_API\\Code_first_API.csproj|e:\\.net\\code_first_api\\code_first_api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A65187-21C9-458F-98B9-080D11FF6C34}|Code_first_API\\Code_first_API.csproj|solutionrelative:code_first_api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A65187-21C9-458F-98B9-080D11FF6C34}|Code_first_API\\Code_first_API.csproj|e:\\.net\\code_first_api\\code_first_api\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A65187-21C9-458F-98B9-080D11FF6C34}|Code_first_API\\Code_first_API.csproj|solutionrelative:code_first_api\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A65187-21C9-458F-98B9-080D11FF6C34}|Code_first_API\\Code_first_API.csproj|e:\\.net\\code_first_api\\code_first_api\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A65187-21C9-458F-98B9-080D11FF6C34}|Code_first_API\\Code_first_API.csproj|solutionrelative:code_first_api\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A65187-21C9-458F-98B9-080D11FF6C34}|Code_first_API\\Code_first_API.csproj|e:\\.net\\code_first_api\\code_first_api\\migrations\\202509151702498_tablescreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A65187-21C9-458F-98B9-080D11FF6C34}|Code_first_API\\Code_first_API.csproj|solutionrelative:code_first_api\\migrations\\202509151702498_tablescreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A65187-21C9-458F-98B9-080D11FF6C34}|Code_first_API\\Code_first_API.csproj|E:\\.net\\Code_first_API\\code_first_api\\ef\\umscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A65187-21C9-458F-98B9-080D11FF6C34}|Code_first_API\\Code_first_API.csproj|solutionrelative:code_first_api\\ef\\umscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "E:\\.net\\Code_first_API\\Code_first_API\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "Code_first_API\\Migrations\\Configuration.cs",
+              "ToolTip": "E:\\.net\\Code_first_API\\Code_first_API\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "Code_first_API\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T17:54:28.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "E:\\.net\\Code_first_API\\Code_first_API\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Code_first_API\\Controllers\\DepartmentController.cs",
+              "ToolTip": "E:\\.net\\Code_first_API\\Code_first_API\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Code_first_API\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAwwC8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T17:49:58.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentDTO.cs",
+              "DocumentMoniker": "E:\\.net\\Code_first_API\\Code_first_API\\DTOs\\StudentDTO.cs",
+              "RelativeDocumentMoniker": "Code_first_API\\DTOs\\StudentDTO.cs",
+              "ToolTip": "E:\\.net\\Code_first_API\\Code_first_API\\DTOs\\StudentDTO.cs",
+              "RelativeToolTip": "Code_first_API\\DTOs\\StudentDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T17:43:57.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "E:\\.net\\Code_first_API\\Code_first_API\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Code_first_API\\Controllers\\StudentController.cs",
+              "ToolTip": "E:\\.net\\Code_first_API\\Code_first_API\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Code_first_API\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwDsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T17:16:13.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "202509151702498_TablesCreated.cs",
+              "DocumentMoniker": "E:\\.net\\Code_first_API\\Code_first_API\\Migrations\\202509151702498_TablesCreated.cs",
+              "RelativeDocumentMoniker": "Code_first_API\\Migrations\\202509151702498_TablesCreated.cs",
+              "ToolTip": "E:\\.net\\Code_first_API\\Code_first_API\\Migrations\\202509151702498_TablesCreated.cs",
+              "RelativeToolTip": "Code_first_API\\Migrations\\202509151702498_TablesCreated.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T17:15:26.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UMSContext.cs",
+              "DocumentMoniker": "E:\\.net\\Code_first_API\\Code_first_API\\EF\\UMSContext.cs",
+              "RelativeDocumentMoniker": "Code_first_API\\EF\\UMSContext.cs",
+              "ToolTip": "E:\\.net\\Code_first_API\\Code_first_API\\EF\\UMSContext.cs",
+              "RelativeToolTip": "Code_first_API\\EF\\UMSContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T16:15:11.387Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
