@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36401.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodDeliveryApi", "FoodDeliveryApi\FoodDeliveryApi.csproj", "{02EC7D91-2B7E-4C75-8555-D3CF92554522}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{32154CD0-7287-442A-875A-FF29568AE780}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{1D74C11B-A8D1-4208-98B1-FBFE94705B8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02EC7D91-2B7E-4C75-8555-D3CF92554522}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02EC7D91-2B7E-4C75-8555-D3CF92554522}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02EC7D91-2B7E-4C75-8555-D3CF92554522}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02EC7D91-2B7E-4C75-8555-D3CF92554522}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32154CD0-7287-442A-875A-FF29568AE780}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32154CD0-7287-442A-875A-FF29568AE780}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32154CD0-7287-442A-875A-FF29568AE780}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32154CD0-7287-442A-875A-FF29568AE780}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D74C11B-A8D1-4208-98B1-FBFE94705B8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D74C11B-A8D1-4208-98B1-FBFE94705B8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D74C11B-A8D1-4208-98B1-FBFE94705B8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D74C11B-A8D1-4208-98B1-FBFE94705B8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61465BFB-3CCA-4C96-860C-49C2BB61AF0E}
+	EndGlobalSection
+EndGlobal

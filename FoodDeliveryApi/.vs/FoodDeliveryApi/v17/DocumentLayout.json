@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\.net\\FoodDeliveryApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02EC7D91-2B7E-4C75-8555-D3CF92554522}|FoodDeliveryApi\\FoodDeliveryApi.csproj|E:\\.net\\FoodDeliveryApi\\fooddeliveryapi\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02EC7D91-2B7E-4C75-8555-D3CF92554522}|FoodDeliveryApi\\FoodDeliveryApi.csproj|solutionrelative:fooddeliveryapi\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EC7D91-2B7E-4C75-8555-D3CF92554522}|FoodDeliveryApi\\FoodDeliveryApi.csproj|e:\\.net\\fooddeliveryapi\\fooddeliveryapi\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02EC7D91-2B7E-4C75-8555-D3CF92554522}|FoodDeliveryApi\\FoodDeliveryApi.csproj|solutionrelative:fooddeliveryapi\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EC7D91-2B7E-4C75-8555-D3CF92554522}|FoodDeliveryApi\\FoodDeliveryApi.csproj|E:\\.net\\FoodDeliveryApi\\fooddeliveryapi\\controllers\\payementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02EC7D91-2B7E-4C75-8555-D3CF92554522}|FoodDeliveryApi\\FoodDeliveryApi.csproj|solutionrelative:fooddeliveryapi\\controllers\\payementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EC7D91-2B7E-4C75-8555-D3CF92554522}|FoodDeliveryApi\\FoodDeliveryApi.csproj|e:\\.net\\fooddeliveryapi\\fooddeliveryapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02EC7D91-2B7E-4C75-8555-D3CF92554522}|FoodDeliveryApi\\FoodDeliveryApi.csproj|solutionrelative:fooddeliveryapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EC7D91-2B7E-4C75-8555-D3CF92554522}|FoodDeliveryApi\\FoodDeliveryApi.csproj|E:\\.net\\FoodDeliveryApi\\fooddeliveryapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02EC7D91-2B7E-4C75-8555-D3CF92554522}|FoodDeliveryApi\\FoodDeliveryApi.csproj|solutionrelative:fooddeliveryapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EC7D91-2B7E-4C75-8555-D3CF92554522}|FoodDeliveryApi\\FoodDeliveryApi.csproj|E:\\.net\\FoodDeliveryApi\\fooddeliveryapi\\controllers\\fooditemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02EC7D91-2B7E-4C75-8555-D3CF92554522}|FoodDeliveryApi\\FoodDeliveryApi.csproj|solutionrelative:fooddeliveryapi\\controllers\\fooditemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EC7D91-2B7E-4C75-8555-D3CF92554522}|FoodDeliveryApi\\FoodDeliveryApi.csproj|E:\\.net\\FoodDeliveryApi\\fooddeliveryapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02EC7D91-2B7E-4C75-8555-D3CF92554522}|FoodDeliveryApi\\FoodDeliveryApi.csproj|solutionrelative:fooddeliveryapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EC7D91-2B7E-4C75-8555-D3CF92554522}|FoodDeliveryApi\\FoodDeliveryApi.csproj|E:\\.net\\FoodDeliveryApi\\fooddeliveryapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02EC7D91-2B7E-4C75-8555-D3CF92554522}|FoodDeliveryApi\\FoodDeliveryApi.csproj|solutionrelative:fooddeliveryapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EC7D91-2B7E-4C75-8555-D3CF92554522}|FoodDeliveryApi\\FoodDeliveryApi.csproj|E:\\.net\\FoodDeliveryApi\\fooddeliveryapi\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02EC7D91-2B7E-4C75-8555-D3CF92554522}|FoodDeliveryApi\\FoodDeliveryApi.csproj|solutionrelative:fooddeliveryapi\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02EC7D91-2B7E-4C75-8555-D3CF92554522}|FoodDeliveryApi\\FoodDeliveryApi.csproj|E:\\.net\\FoodDeliveryApi\\fooddeliveryapi\\controllers\\deliverycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02EC7D91-2B7E-4C75-8555-D3CF92554522}|FoodDeliveryApi\\FoodDeliveryApi.csproj|solutionrelative:fooddeliveryapi\\controllers\\deliverycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\.net\\FoodDeliveryApi\\FoodDeliveryApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "FoodDeliveryApi\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\.net\\FoodDeliveryApi\\FoodDeliveryApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "FoodDeliveryApi\\Controllers\\UserController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAzwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T04:41:28.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RestaurantController.cs",
+              "DocumentMoniker": "E:\\.net\\FoodDeliveryApi\\FoodDeliveryApi\\Controllers\\RestaurantController.cs",
+              "RelativeDocumentMoniker": "FoodDeliveryApi\\Controllers\\RestaurantController.cs",
+              "ToolTip": "E:\\.net\\FoodDeliveryApi\\FoodDeliveryApi\\Controllers\\RestaurantController.cs",
+              "RelativeToolTip": "FoodDeliveryApi\\Controllers\\RestaurantController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T03:32:32.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FoodItemController.cs",
+              "DocumentMoniker": "E:\\.net\\FoodDeliveryApi\\FoodDeliveryApi\\Controllers\\FoodItemController.cs",
+              "RelativeDocumentMoniker": "FoodDeliveryApi\\Controllers\\FoodItemController.cs",
+              "ToolTip": "E:\\.net\\FoodDeliveryApi\\FoodDeliveryApi\\Controllers\\FoodItemController.cs",
+              "RelativeToolTip": "FoodDeliveryApi\\Controllers\\FoodItemController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T03:37:56.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DeliveryController.cs",
+              "DocumentMoniker": "E:\\.net\\FoodDeliveryApi\\FoodDeliveryApi\\Controllers\\DeliveryController.cs",
+              "RelativeDocumentMoniker": "FoodDeliveryApi\\Controllers\\DeliveryController.cs",
+              "ToolTip": "E:\\.net\\FoodDeliveryApi\\FoodDeliveryApi\\Controllers\\DeliveryController.cs",
+              "RelativeToolTip": "FoodDeliveryApi\\Controllers\\DeliveryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T03:37:47.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "E:\\.net\\FoodDeliveryApi\\FoodDeliveryApi\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "FoodDeliveryApi\\Controllers\\CartController.cs",
+              "ToolTip": "E:\\.net\\FoodDeliveryApi\\FoodDeliveryApi\\Controllers\\CartController.cs",
+              "RelativeToolTip": "FoodDeliveryApi\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T03:37:28.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "E:\\.net\\FoodDeliveryApi\\FoodDeliveryApi\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "FoodDeliveryApi\\Controllers\\OrderController.cs",
+              "ToolTip": "E:\\.net\\FoodDeliveryApi\\FoodDeliveryApi\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "FoodDeliveryApi\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T07:44:29.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "E:\\.net\\FoodDeliveryApi\\FoodDeliveryApi\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "FoodDeliveryApi\\Controllers\\CategoryController.cs",
+              "ToolTip": "E:\\.net\\FoodDeliveryApi\\FoodDeliveryApi\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "FoodDeliveryApi\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T19:57:57.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\.net\\FoodDeliveryApi\\FoodDeliveryApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "FoodDeliveryApi\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\.net\\FoodDeliveryApi\\FoodDeliveryApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "FoodDeliveryApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T19:57:49.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PayementController.cs",
+              "DocumentMoniker": "E:\\.net\\FoodDeliveryApi\\FoodDeliveryApi\\Controllers\\PayementController.cs",
+              "RelativeDocumentMoniker": "FoodDeliveryApi\\Controllers\\PayementController.cs",
+              "ToolTip": "E:\\.net\\FoodDeliveryApi\\FoodDeliveryApi\\Controllers\\PayementController.cs",
+              "RelativeToolTip": "FoodDeliveryApi\\Controllers\\PayementController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwCEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T18:37:47.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReviewController.cs",
+              "DocumentMoniker": "E:\\.net\\FoodDeliveryApi\\FoodDeliveryApi\\Controllers\\ReviewController.cs",
+              "RelativeDocumentMoniker": "FoodDeliveryApi\\Controllers\\ReviewController.cs",
+              "ToolTip": "E:\\.net\\FoodDeliveryApi\\FoodDeliveryApi\\Controllers\\ReviewController.cs",
+              "RelativeToolTip": "FoodDeliveryApi\\Controllers\\ReviewController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T17:57:59.405Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
