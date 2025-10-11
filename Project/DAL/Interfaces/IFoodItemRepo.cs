@@ -15,7 +15,6 @@ namespace DAL.Interfaces
         List<FoodItem> Get();
         FoodItem Get(int id);
 
-        // Extra functionality: Search/filter
         List<FoodItem> GetByCategory(string category);
         List<FoodItem> SearchByName(string name);
     }

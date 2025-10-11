@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "E:\\.net\\Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EFC1046E-EDC6-4A22-AF49-81B00F772865}|DAL\\DAL.csproj|e:\\.net\\project\\dal\\ef\\tables\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFC1046E-EDC6-4A22-AF49-81B00F772865}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tables\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EFC1046E-EDC6-4A22-AF49-81B00F772865}|DAL\\DAL.csproj|e:\\.net\\project\\dal\\interfaces\\ifooditemrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC1046E-EDC6-4A22-AF49-81B00F772865}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\ifooditemrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFC1046E-EDC6-4A22-AF49-81B00F772865}|DAL\\DAL.csproj|E:\\.net\\Project\\dal\\ef\\tables\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFC1046E-EDC6-4A22-AF49-81B00F772865}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tables\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EFC1046E-EDC6-4A22-AF49-81B00F772865}|DAL\\DAL.csproj|E:\\.net\\Project\\dal\\interfaces\\iorderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC1046E-EDC6-4A22-AF49-81B00F772865}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\iorderrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFC1046E-EDC6-4A22-AF49-81B00F772865}|DAL\\DAL.csproj|e:\\.net\\project\\dal\\ef\\tables\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFC1046E-EDC6-4A22-AF49-81B00F772865}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tables\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EFC1046E-EDC6-4A22-AF49-81B00F772865}|DAL\\DAL.csproj|E:\\.net\\Project\\dal\\interfaces\\iauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC1046E-EDC6-4A22-AF49-81B00F772865}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\iauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFC1046E-EDC6-4A22-AF49-81B00F772865}|DAL\\DAL.csproj|e:\\.net\\project\\dal\\ef\\tables\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFC1046E-EDC6-4A22-AF49-81B00F772865}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tables\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EFC1046E-EDC6-4A22-AF49-81B00F772865}|DAL\\DAL.csproj|E:\\.net\\Project\\dal\\interfaces\\icartrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC1046E-EDC6-4A22-AF49-81B00F772865}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\icartrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFC1046E-EDC6-4A22-AF49-81B00F772865}|DAL\\DAL.csproj|e:\\.net\\project\\dal\\ef\\tables\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFC1046E-EDC6-4A22-AF49-81B00F772865}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tables\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EFC1046E-EDC6-4A22-AF49-81B00F772865}|DAL\\DAL.csproj|E:\\.net\\Project\\dal\\interfaces\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC1046E-EDC6-4A22-AF49-81B00F772865}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\iuserrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFC1046E-EDC6-4A22-AF49-81B00F772865}|DAL\\DAL.csproj|e:\\.net\\project\\dal\\ef\\tables\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFC1046E-EDC6-4A22-AF49-81B00F772865}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tables\\fooditem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EFC1046E-EDC6-4A22-AF49-81B00F772865}|DAL\\DAL.csproj|E:\\.net\\Project\\dal\\interfaces\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC1046E-EDC6-4A22-AF49-81B00F772865}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFC1046E-EDC6-4A22-AF49-81B00F772865}|DAL\\DAL.csproj|e:\\.net\\project\\dal\\ef\\tables\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFC1046E-EDC6-4A22-AF49-81B00F772865}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\tables\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EFC1046E-EDC6-4A22-AF49-81B00F772865}|DAL\\DAL.csproj|E:\\.net\\Project\\dal\\interfaces\\ipaymentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC1046E-EDC6-4A22-AF49-81B00F772865}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\ipaymentrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,103 +38,96 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Cart.cs",
-              "DocumentMoniker": "E:\\.net\\Project\\DAL\\EF\\Tables\\Cart.cs",
-              "RelativeDocumentMoniker": "DAL\\EF\\Tables\\Cart.cs",
-              "ToolTip": "E:\\.net\\Project\\DAL\\EF\\Tables\\Cart.cs",
-              "RelativeToolTip": "DAL\\EF\\Tables\\Cart.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAqwAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-10T13:24:21.914Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Order.cs",
-              "DocumentMoniker": "E:\\.net\\Project\\DAL\\EF\\Tables\\Order.cs",
-              "RelativeDocumentMoniker": "DAL\\EF\\Tables\\Order.cs",
-              "ToolTip": "E:\\.net\\Project\\DAL\\EF\\Tables\\Order.cs",
-              "RelativeToolTip": "DAL\\EF\\Tables\\Order.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T16:21:51.334Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FoodItem.cs",
-              "DocumentMoniker": "E:\\.net\\Project\\DAL\\EF\\Tables\\FoodItem.cs",
-              "RelativeDocumentMoniker": "DAL\\EF\\Tables\\FoodItem.cs",
-              "ToolTip": "E:\\.net\\Project\\DAL\\EF\\Tables\\FoodItem.cs",
-              "RelativeToolTip": "DAL\\EF\\Tables\\FoodItem.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "IAuth.cs",
+              "DocumentMoniker": "E:\\.net\\Project\\DAL\\Interfaces\\IAuth.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IAuth.cs",
+              "ToolTip": "E:\\.net\\Project\\DAL\\Interfaces\\IAuth.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IAuth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T16:14:29.189Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "OrderItem.cs",
-              "DocumentMoniker": "E:\\.net\\Project\\DAL\\EF\\Tables\\OrderItem.cs",
-              "RelativeDocumentMoniker": "DAL\\EF\\Tables\\OrderItem.cs",
-              "ToolTip": "E:\\.net\\Project\\DAL\\EF\\Tables\\OrderItem.cs",
-              "RelativeToolTip": "DAL\\EF\\Tables\\OrderItem.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T16:13:28.776Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-11T16:58:30.67Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Payment.cs",
-              "DocumentMoniker": "E:\\.net\\Project\\DAL\\EF\\Tables\\Payment.cs",
-              "RelativeDocumentMoniker": "DAL\\EF\\Tables\\Payment.cs",
-              "ToolTip": "E:\\.net\\Project\\DAL\\EF\\Tables\\Payment.cs",
-              "RelativeToolTip": "DAL\\EF\\Tables\\Payment.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
+              "Title": "ICartRepo.cs",
+              "DocumentMoniker": "E:\\.net\\Project\\DAL\\Interfaces\\ICartRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\ICartRepo.cs",
+              "ToolTip": "E:\\.net\\Project\\DAL\\Interfaces\\ICartRepo.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\ICartRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T16:07:42.368Z",
+              "WhenOpened": "2025-10-11T16:57:35.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IFoodItemRepo.cs",
+              "DocumentMoniker": "E:\\.net\\Project\\DAL\\Interfaces\\IFoodItemRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IFoodItemRepo.cs",
+              "ToolTip": "E:\\.net\\Project\\DAL\\Interfaces\\IFoodItemRepo.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IFoodItemRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T16:57:18.137Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Token.cs",
-              "DocumentMoniker": "E:\\.net\\Project\\DAL\\EF\\Tables\\Token.cs",
-              "RelativeDocumentMoniker": "DAL\\EF\\Tables\\Token.cs",
-              "ToolTip": "E:\\.net\\Project\\DAL\\EF\\Tables\\Token.cs",
-              "RelativeToolTip": "DAL\\EF\\Tables\\Token.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "IOrderRepo.cs",
+              "DocumentMoniker": "E:\\.net\\Project\\DAL\\Interfaces\\IOrderRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IOrderRepo.cs",
+              "ToolTip": "E:\\.net\\Project\\DAL\\Interfaces\\IOrderRepo.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IOrderRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T16:06:01.164Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-11T16:57:09.318Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "User.cs",
-              "DocumentMoniker": "E:\\.net\\Project\\DAL\\EF\\Tables\\User.cs",
-              "RelativeDocumentMoniker": "DAL\\EF\\Tables\\User.cs",
-              "ToolTip": "E:\\.net\\Project\\DAL\\EF\\Tables\\User.cs",
-              "RelativeToolTip": "DAL\\EF\\Tables\\User.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBYAAAAIAAAAAAAAAA==",
+              "Title": "IPaymentRepo.cs",
+              "DocumentMoniker": "E:\\.net\\Project\\DAL\\Interfaces\\IPaymentRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IPaymentRepo.cs",
+              "ToolTip": "E:\\.net\\Project\\DAL\\Interfaces\\IPaymentRepo.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IPaymentRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-11T16:04:51.397Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-11T16:56:47.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserRepo.cs",
+              "DocumentMoniker": "E:\\.net\\Project\\DAL\\Interfaces\\IUserRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IUserRepo.cs",
+              "ToolTip": "E:\\.net\\Project\\DAL\\Interfaces\\IUserRepo.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IUserRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T16:56:38.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "E:\\.net\\Project\\DAL\\Interfaces\\IRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IRepo.cs",
+              "ToolTip": "E:\\.net\\Project\\DAL\\Interfaces\\IRepo.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T16:53:41.546Z"
             }
           ]
         }
