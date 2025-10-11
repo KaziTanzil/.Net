@@ -16,7 +16,7 @@ namespace Project.Controllers
         [RoleLogged("Admin")]
         public HttpResponseMessage GetAll()
         {
-            // Token already validated by filters
+
             var token = Request.Headers.Authorization.Parameter ?? Request.Headers.Authorization.ToString();
             var data = UserService.Get(token);
 

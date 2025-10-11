@@ -62,7 +62,15 @@ namespace BLL.Services
                 return GetMapper().Map<List<OrderDTO>>(orders);
 
             if (AuthService.IsCustomer(token))
-                return GetMapper().Map<List<OrderDTO>>(orders.Where(o => o.UserId == tok.User.UserId).ToList());
+
+            {
+                var userOrders = (from o in orders
+                                  where o.UserId == tok.User.UserId
+                                  select o).ToList();
+
+                return GetMapper().Map<List<OrderDTO>>(userOrders);
+
+            }
 
             return null;
         }

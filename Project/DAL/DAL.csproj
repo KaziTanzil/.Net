@@ -61,9 +61,6 @@
     <Compile Include="EF\Tables\User.cs" />
     <Compile Include="Interfaces\IAuth.cs" />
     <Compile Include="Interfaces\ICartRepo.cs" />
-    <Compile Include="Interfaces\IFoodItemRepo.cs" />
-    <Compile Include="Interfaces\IOrderRepo.cs" />
-    <Compile Include="Interfaces\IPaymentRepo.cs" />
     <Compile Include="Interfaces\IRepo.cs" />
     <Compile Include="Interfaces\IUserRepo.cs" />
     <Compile Include="Migrations\202510101239457_UserTblCreated.cs" />

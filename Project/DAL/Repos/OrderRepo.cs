@@ -11,7 +11,8 @@ namespace DAL.Repos
                             where o.OrderId == obj.OrderId
                             select o).SingleOrDefault();
 
-            if (existing == null) return false;
+            if (existing == null) 
+                return false;
 
             db.Entry(existing).CurrentValues.SetValues(obj);
             db.SaveChanges();

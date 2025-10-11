@@ -30,9 +30,10 @@ namespace BLL.Services
 
             if (AuthService.IsCustomer(token))
             {
-                var myPayments = data
-                    .Where(p => p.Order != null && p.Order.User.Email == tok.User.Email) 
-                    .ToList();
+                var myPayments = (from p in data
+                                  where p.Order != null && p.Order.User.Email == tok.User.Email
+                                  select p).ToList();
+
 
                 return GetMapper().Map<List<PaymentDTO>>(myPayments);
             }
@@ -42,18 +43,11 @@ namespace BLL.Services
 
         public static bool Create(PaymentDTO p, string token)
         {
-            if (AuthService.IsCustomer(token))
-            {
-                var order = DataAccessFactory.OrderData().Get(p.OrderId);
+            if (!AuthService.IsCustomer(token)) return false;
 
-               
-                if (order == null || order.User.Email != DataAccessFactory.TokenData().Get(token).User.Email)
-                    return false;
-
-                var pay = GetMapper().Map<Payment>(p);
-                return DataAccessFactory.PaymentData().Create(pay);
-            }
-            return false;
+            var pay = GetMapper().Map<Payment>(p);
+            return DataAccessFactory.PaymentData().Create(pay);
         }
+
     }
 }

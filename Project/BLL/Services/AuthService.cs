@@ -15,7 +15,7 @@ namespace BLL.Services
         public static Mapper GetMapper()
         {
             var config = new MapperConfiguration(cfg => {
-                cfg.CreateMap<Token, TokenDTO>();
+                cfg.CreateMap<Token, TokenDTO>().ReverseMap();
             });
             return new Mapper(config);
         }
@@ -25,14 +25,15 @@ namespace BLL.Services
             var user = DataAccessFactory.AuthData().Authenticate(email, pass);
             if (user != null)
             {
-                var token = new Token()
+                var token = new TokenDTO()
                 {
                     Key = Guid.NewGuid().ToString(),
                     CreatedAt = DateTime.Now,
                     ExpiredAt = null,
                     UserId = user.UserId
                 };
-                var tk = DataAccessFactory.TokenData().Create(token);
+                var t = GetMapper().Map<Token>(token);
+                var tk = DataAccessFactory.TokenData().Create(t);
                 return GetMapper().Map<TokenDTO>(tk);
             }
             return null;
@@ -40,26 +41,31 @@ namespace BLL.Services
 
         public static bool IsTokenValid(string tk)
         {
-            var tok = DataAccessFactory.TokenData().Get(tk);
-            return tok != null && tok.ExpiredAt == null;
+            
+            var token = DataAccessFactory.TokenData().Get(tk);
+            var a= token != null && token.ExpiredAt == null;
+            return a;
         }
 
         public static bool IsAdmin(string tk)
         {
             var tok = DataAccessFactory.TokenData().Get(tk);
-            return tok != null && tok.ExpiredAt == null && tok.User.Role.Equals("Admin");
+            var a= tok != null && tok.ExpiredAt == null && tok.User.Role.Equals("Admin");
+            return a;
         }
 
         public static bool IsCustomer(string tk)
         {
-            var tok = DataAccessFactory.TokenData().Get(tk);
-            return tok != null && tok.ExpiredAt == null && tok.User.Role.Equals("Customer");
+            var t = DataAccessFactory.TokenData().Get(tk);
+           var a= t != null && t.ExpiredAt == null && t.User.Role.Equals("Customer");
+            return a;
         }
 
         public static bool IsDeliveryBoy(string tk)
         {
             var tok = DataAccessFactory.TokenData().Get(tk);
-            return tok != null && tok.ExpiredAt == null && tok.User.Role.Equals("DeliveryBoy");
+            var a= tok != null && tok.ExpiredAt == null && tok.User.Role.Equals("DeliveryBoy");
+            return a;
         }
 
         public static bool Logout(string tk)

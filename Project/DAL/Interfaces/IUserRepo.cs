@@ -9,10 +9,6 @@ namespace DAL.Interfaces
 {
     public interface IUserRepo
     {
-        bool Create(User u);
-        bool Update(User u);
-        bool Delete(int id);
-        List<User> Get();
-        User Get(int id);
+        
     }
 }

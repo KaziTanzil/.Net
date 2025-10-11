@@ -22,7 +22,7 @@ namespace DAL.Repos
             if (!string.IsNullOrEmpty(obj.Category))
                 existing.Category = obj.Category;
 
-            db.Entry(existing).State = System.Data.Entity.EntityState.Modified;
+            db.Entry(existing).CurrentValues.SetValues(obj);
             db.SaveChanges();
             return true;
         }

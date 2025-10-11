@@ -59,7 +59,8 @@ namespace BLL.Services
             {
                 var repo = DataAccessFactory.FoodItemData();
                 var existing = repo.Get(f.FoodItemId);
-                if (existing == null) return false;
+                if (existing == null) 
+                    return false;
                 existing.Price = f.Price == 0 ? existing.Price : f.Price; 
                 existing.Category = string.IsNullOrEmpty(f.Category) ? existing.Category : f.Category;
 
@@ -82,15 +83,17 @@ namespace BLL.Services
         public static List<FoodItemDTO> Search(string name, string category)
         {
             var items = Get(null); 
-            if (!string.IsNullOrEmpty(name))
-                items = items.Where(f => f.Name.ToLower().Contains(name.ToLower())).ToList();
-            if (!string.IsNullOrEmpty(category))
-                items = items.Where(f => f.Category.ToLower().Contains(category.ToLower())).ToList();
 
-            return items;
+            var query = from f in items
+                        where (string.IsNullOrEmpty(name) || f.Name.ToLower().Contains(name.ToLower()))
+                           && (string.IsNullOrEmpty(category) || f.Category.ToLower().Contains(category.ToLower()))
+                        select f;
+
+            return query.ToList();
         }
 
-       
+
+
         public static List<dynamic> GetTopSelling()
         {
             var allOrders = DAL.DataAccessFactory.OrderData().Get();

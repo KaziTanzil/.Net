@@ -11,7 +11,8 @@ namespace DAL.Repos
                             where p.PaymentId == obj.PaymentId
                             select p).SingleOrDefault();
 
-            if (existing == null) return false;
+            if (existing == null)
+                return false;
 
             db.Entry(existing).CurrentValues.SetValues(obj);
             db.SaveChanges();

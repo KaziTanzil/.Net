@@ -68,7 +68,7 @@ namespace BLL.Services
 
         public static decimal GetTotalPrice(string token)
         {
-            var carts = Get(token); // existing method returns CartDTO list
+            var carts = Get(token);
             if (carts != null && carts.Count > 0)
             {
                 return carts.Sum(c => c.TotalPrice);

@@ -9,7 +9,7 @@ namespace DAL.Repos
         public User Authenticate(string email, string pass)
         {
             var user = (from u in db.Users
-                        where u.Email.Equals(email) && u.PasswordHash.Equals(pass)
+                        where u.Email==email && u.PasswordHash==pass
                         select u).SingleOrDefault();
             return user;
         }
@@ -20,7 +20,8 @@ namespace DAL.Repos
                                 where u.UserId == obj.UserId
                                 select u).SingleOrDefault();
 
-            if (existingUser == null) return false;
+            if (existingUser == null) 
+                return false;
 
             if (!string.IsNullOrEmpty(obj.Name))
                 existingUser.Name = obj.Name;
@@ -34,7 +35,7 @@ namespace DAL.Repos
             if (!string.IsNullOrEmpty(obj.PasswordHash))
                 existingUser.PasswordHash = obj.PasswordHash;
 
-            db.Entry(existingUser).State = System.Data.Entity.EntityState.Modified;
+            db.Entry(existingUser).CurrentValues.SetValues(obj);
             db.SaveChanges();
             return true;
         }

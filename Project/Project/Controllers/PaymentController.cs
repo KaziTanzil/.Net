@@ -26,9 +26,17 @@ namespace Project.Controllers
         [RoleLogged("Customer")]
         public HttpResponseMessage Create(PaymentDTO p)
         {
-            var token = Request.Headers.Authorization.Parameter ?? Request.Headers.Authorization.ToString();
-            var data = PaymentService.Create(p, token);
-            return Request.CreateResponse(HttpStatusCode.OK, data);
+            var token = Request.Headers.Authorization?.Parameter ?? Request.Headers.Authorization?.ToString();
+            var success = PaymentService.Create(p, token);
+
+            var response = new
+            {
+                success = success,
+                message = success ? "Payment created successfully." : "Payment creation failed or unauthorized."
+            };
+
+            return Request.CreateResponse(HttpStatusCode.OK, response);
         }
+
     }
 }

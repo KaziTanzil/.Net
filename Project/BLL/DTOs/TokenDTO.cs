@@ -12,5 +12,6 @@ namespace BLL.DTOs
         public string Key { get; set; }
         public DateTime CreatedAt { get; set; }
         public DateTime? ExpiredAt { get; set; }
+        public int UserId { get; set; }
     }
 }

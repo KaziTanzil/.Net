@@ -30,19 +30,7 @@ namespace BLL.Services
             return null;
         }
 
-        public static UserDTO Get(int id, string token)
-        {
-            var tok = DataAccessFactory.TokenData().Get(token);
-            if (tok != null && tok.ExpiredAt == null)
-            {
-                if (AuthService.IsAdmin(token) || tok.UserId == id)
-                {
-                    var data = DataAccessFactory.UserData().Get(id);
-                    return GetMapper().Map<UserDTO>(data);
-                }
-            }
-            return null;
-        }
+
 
 
 
