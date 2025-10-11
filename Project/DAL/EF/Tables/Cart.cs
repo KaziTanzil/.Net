@@ -10,14 +10,7 @@ namespace DAL.EF.Tables
 {
     public class Cart
     {
-
         public int CartId { get; set; }
-
-        public int Quantity { get; set; }
-
-
-
-        public decimal TotalPrice { get; set; }
 
         [ForeignKey("User")]
         public int UserId { get; set; }
@@ -27,7 +20,11 @@ namespace DAL.EF.Tables
         public int FoodItemId { get; set; }
         public virtual FoodItem FoodItem { get; set; }
 
+        public int Quantity { get; set; }
 
+        
+        
+        public decimal TotalPrice { get; set; }
 
     }
 }

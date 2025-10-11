@@ -15,6 +15,7 @@ namespace DAL.Interfaces
         List<Order> Get();
         Order Get(int id);
 
+        // Extra functionality
         List<Order> GetByUser(int userId);
         List<Order> GetByStatus(string status);
     }

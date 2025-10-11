@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations.Schema;
-using System.Linq;
-using System.Text;
+﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace DAL.EF.Tables
 {
@@ -13,23 +9,19 @@ namespace DAL.EF.Tables
         [Key]
         public int UserId { get; set; }
 
-        [Required] 
-        [MaxLength(100)]
+        [Required, MaxLength(100)]
         [Column(TypeName = "varchar")]
         public string Name { get; set; }
 
-        [Required]
-        [MaxLength(150)]
+        [Required, MaxLength(150)]
         [Column(TypeName = "varchar")]
         public string Email { get; set; }
 
-        [Required]
-        [MaxLength(255)] 
+        [Required, MaxLength(255)] 
         [Column(TypeName = "varchar")]
         public string PasswordHash { get; set; }
 
-        [Required]
-        [MaxLength(50)]
+        [Required, MaxLength(50)]
         [Column(TypeName = "varchar")]
         public string Role { get; set; }
 

@@ -9,31 +9,25 @@ namespace DAL.EF.Tables
         [Key]
         public int PaymentId { get; set; }
 
-
- 
+        [Required]
+        public int OrderId { get; set; }
 
         [Required]
-        [Column(TypeName = "varchar")]
         public double Amount { get; set; }
 
         [Required]
         [MaxLength(50)]
-        [Column(TypeName = "varchar")]
         public string PaymentMethod { get; set; }
 
         [Required]
-        [Column(TypeName = "varchar")]
         public DateTime PaymentDate { get; set; }
 
         [Required]
         [MaxLength(20)]
-        [Column(TypeName = "varchar")]
         public string Status { get; set; }
 
-
+        
         [ForeignKey("OrderId")]
-        public int OrderId { get; set; }
-
         public virtual Order Order { get; set; }
     }
 }

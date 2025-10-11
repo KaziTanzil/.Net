@@ -10,8 +10,6 @@ namespace DAL.EF.Tables
     public class Token
     {
         public int Id { get; set; }
-
-        [Column(TypeName = "varchar")]
         public string Key { get; set; }
         public DateTime CreatedAt { get; set; }
         public DateTime? ExpiredAt { get; set; }

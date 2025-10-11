@@ -12,3 +12,17 @@ E:\.net\Project\BLL\bin\Debug\EntityFramework.xml
 E:\.net\Project\BLL\obj\Debug\BLL.csproj.Up2Date
 E:\.net\Project\BLL\obj\Debug\BLL.dll
 E:\.net\Project\BLL\obj\Debug\BLL.pdb
+D:\Tanzil's_oneDrive\OneDrive\Download\Downloads\Project (2)\Project\BLL\bin\Debug\BLL.dll
+D:\Tanzil's_oneDrive\OneDrive\Download\Downloads\Project (2)\Project\BLL\bin\Debug\BLL.pdb
+D:\Tanzil's_oneDrive\OneDrive\Download\Downloads\Project (2)\Project\BLL\bin\Debug\AutoMapper.dll
+D:\Tanzil's_oneDrive\OneDrive\Download\Downloads\Project (2)\Project\BLL\bin\Debug\DAL.dll
+D:\Tanzil's_oneDrive\OneDrive\Download\Downloads\Project (2)\Project\BLL\bin\Debug\EntityFramework.dll
+D:\Tanzil's_oneDrive\OneDrive\Download\Downloads\Project (2)\Project\BLL\bin\Debug\DAL.pdb
+D:\Tanzil's_oneDrive\OneDrive\Download\Downloads\Project (2)\Project\BLL\bin\Debug\DAL.dll.config
+D:\Tanzil's_oneDrive\OneDrive\Download\Downloads\Project (2)\Project\BLL\bin\Debug\AutoMapper.xml
+D:\Tanzil's_oneDrive\OneDrive\Download\Downloads\Project (2)\Project\BLL\bin\Debug\EntityFramework.xml
+D:\Tanzil's_oneDrive\OneDrive\Download\Downloads\Project (2)\Project\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Tanzil's_oneDrive\OneDrive\Download\Downloads\Project (2)\Project\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Tanzil's_oneDrive\OneDrive\Download\Downloads\Project (2)\Project\BLL\obj\Debug\BLL.csproj.Up2Date
+D:\Tanzil's_oneDrive\OneDrive\Download\Downloads\Project (2)\Project\BLL\obj\Debug\BLL.dll
+D:\Tanzil's_oneDrive\OneDrive\Download\Downloads\Project (2)\Project\BLL\obj\Debug\BLL.pdb

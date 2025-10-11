@@ -15,7 +15,7 @@ namespace DAL.Interfaces
         List<Cart> Get();
         Cart Get(int id);
 
-
+        // Extra functionality: Get cart items for a user
         List<Cart> GetByUser(int userId);
     }
 }

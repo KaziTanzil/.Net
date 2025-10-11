@@ -110,6 +110,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repos\CartRepo.cs" />
     <Compile Include="Repos\FoodItemRepo.cs" />
+    <Compile Include="Repos\GenericRepo.cs" />
     <Compile Include="Repos\OrderRepo.cs" />
     <Compile Include="Repos\PaymentRepo.cs" />
     <Compile Include="Repos\Repo.cs" />

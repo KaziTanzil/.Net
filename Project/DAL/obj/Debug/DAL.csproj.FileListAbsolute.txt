@@ -21,3 +21,26 @@ E:\.net\Project\DAL\obj\Debug\DAL.Migrations.PaymentsTblCreated.resources
 E:\.net\Project\DAL\obj\Debug\DAL.Migrations.TblUpdates.resources
 E:\.net\Project\DAL\obj\Debug\DAL.Migrations.AddDataInTables.resources
 E:\.net\Project\DAL\obj\Debug\DAL.Migrations.UpdateDbData.resources
+D:\Tanzil's_oneDrive\OneDrive\Download\Downloads\Project (2)\Project\DAL\bin\Debug\DAL.dll.config
+D:\Tanzil's_oneDrive\OneDrive\Download\Downloads\Project (2)\Project\DAL\bin\Debug\DAL.dll
+D:\Tanzil's_oneDrive\OneDrive\Download\Downloads\Project (2)\Project\DAL\bin\Debug\DAL.pdb
+D:\Tanzil's_oneDrive\OneDrive\Download\Downloads\Project (2)\Project\DAL\bin\Debug\EntityFramework.dll
+D:\Tanzil's_oneDrive\OneDrive\Download\Downloads\Project (2)\Project\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tanzil's_oneDrive\OneDrive\Download\Downloads\Project (2)\Project\DAL\bin\Debug\EntityFramework.xml
+D:\Tanzil's_oneDrive\OneDrive\Download\Downloads\Project (2)\Project\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Tanzil's_oneDrive\OneDrive\Download\Downloads\Project (2)\Project\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Tanzil's_oneDrive\OneDrive\Download\Downloads\Project (2)\Project\DAL\obj\Debug\DAL.Migrations.UserTblCreated.resources
+D:\Tanzil's_oneDrive\OneDrive\Download\Downloads\Project (2)\Project\DAL\obj\Debug\DAL.Migrations.TokensTblCreated.resources
+D:\Tanzil's_oneDrive\OneDrive\Download\Downloads\Project (2)\Project\DAL\obj\Debug\DAL.Migrations.FoodItemTblCreated.resources
+D:\Tanzil's_oneDrive\OneDrive\Download\Downloads\Project (2)\Project\DAL\obj\Debug\DAL.Migrations.CartsTblCreated.resources
+D:\Tanzil's_oneDrive\OneDrive\Download\Downloads\Project (2)\Project\DAL\obj\Debug\DAL.Migrations.OrderTblCreated.resources
+D:\Tanzil's_oneDrive\OneDrive\Download\Downloads\Project (2)\Project\DAL\obj\Debug\DAL.Migrations.OrderItemTblCreated.resources
+D:\Tanzil's_oneDrive\OneDrive\Download\Downloads\Project (2)\Project\DAL\obj\Debug\DAL.Migrations.PaymentsTblCreated.resources
+D:\Tanzil's_oneDrive\OneDrive\Download\Downloads\Project (2)\Project\DAL\obj\Debug\DAL.Migrations.TblUpdates.resources
+D:\Tanzil's_oneDrive\OneDrive\Download\Downloads\Project (2)\Project\DAL\obj\Debug\DAL.Migrations.AddDataInTables.resources
+D:\Tanzil's_oneDrive\OneDrive\Download\Downloads\Project (2)\Project\DAL\obj\Debug\DAL.Migrations.UpdateDbData.resources
+D:\Tanzil's_oneDrive\OneDrive\Download\Downloads\Project (2)\Project\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+D:\Tanzil's_oneDrive\OneDrive\Download\Downloads\Project (2)\Project\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Tanzil's_oneDrive\OneDrive\Download\Downloads\Project (2)\Project\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\Tanzil's_oneDrive\OneDrive\Download\Downloads\Project (2)\Project\DAL\obj\Debug\DAL.dll
+D:\Tanzil's_oneDrive\OneDrive\Download\Downloads\Project (2)\Project\DAL\obj\Debug\DAL.pdb
